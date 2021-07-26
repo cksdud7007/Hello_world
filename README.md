@@ -1,4 +1,5 @@
-# NHQV_text_classification - NH투자증권_텍스트 분류 (예선진출)
+# NHQV_text_classification  
+- NH투자증권_텍스트 분류 (예선진출)
 
 ### 프로젝트명
 NH투자증권 주관, 진짜뉴스 & 가짜뉴스 판별하는 알고리즘 개발  
